@@ -1,0 +1,10 @@
+D:\VS2015\AutoCAD2017\CAS2017\bin\Release\CAS2017.dll
+D:\VS2015\AutoCAD2017\CAS2017\bin\Release\CAS2017.pdb
+D:\VS2015\AutoCAD2017\CAS2017\obj\Release\CAS2017.myFunctions.AboutBox.resources
+D:\VS2015\AutoCAD2017\CAS2017\obj\Release\CAS2017.myFunctions.battPreSuf.resources
+D:\VS2015\AutoCAD2017\CAS2017\obj\Release\CAS2017.myFunctions.BlockManipulator.resources
+D:\VS2015\AutoCAD2017\CAS2017\obj\Release\CAS2017.myFunctions.Settings.resources
+D:\VS2015\AutoCAD2017\CAS2017\obj\Release\CAS2017.Resource.resources
+D:\VS2015\AutoCAD2017\CAS2017\obj\Release\CAS2017.csproj.GenerateResource.Cache
+D:\VS2015\AutoCAD2017\CAS2017\obj\Release\CAS2017.dll
+D:\VS2015\AutoCAD2017\CAS2017\obj\Release\CAS2017.pdb
